@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #3333;
+}
+header h1{
+    background: #ffffff;
+    color: darkblue;
+    text-align: center;
+    margin: 0 0 15px 0;
+    padding: 5px;
+}
+.contenedor{
+    width: 100%;
+    height: 100vh;
+    display: inline-flex;
+}
+.area{
+    background: #fff;
+    margin: 10px;
+    padding: 3px;
+    width: 100%;
+    height: 95%;
+}
+.vista{
+    background: #fff;
+    margin: 10px;
+    padding: 3px;
+    width: 100%;
+    height: 95%;
+}
+footer{
+    font-size: 1.4em;
+    background: #000;
+    color: #ffff;
+    text-align: center;
+    margin: 1px 0 0 0;
+    padding: 5px;
+}
